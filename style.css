@@ -1,0 +1,29 @@
+#font_mani, #size_font{
+    color: white;
+    font-size: medium;
+}
+
+#size_font_differ{
+    color: rgba(255, 247, 247, 0.726);
+    font-size: larger;
+}
+
+.bg-primary{
+    box-shadow: 3px 6px 10px lightblue;
+    border-radius: 4px;
+}
+
+#footer1{
+    background-color: gray;
+    position: fixed ;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 3px;
+    border-radius: 4px;
+}
+
+canvas{
+    border: 3px solid black;
+    border-radius: 4px;
+}
